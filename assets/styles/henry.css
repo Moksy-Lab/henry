@@ -33,12 +33,15 @@
 /*****freya*****/
 /* #freya(freyategxpfzk1ni) #css starts */
 .freyategxpfzk1ni .fdb-block {
-    padding: 2.5rem 0
+    padding: 5.5rem 0
   }
-
+  .freyategxpfzk1ni .fdb-block img + h2 {
+    margin-top: 1.5rem;
+    font-size: 20px
+}
   .freyategxpfzk1ni  .fdb-block .fdb-box {
       background: #FFFFFF;
-      padding: 3.75rem 2.5rem;
+      padding: 1.75rem 3.5rem;
       overflow: hidden;
       color: #444444;
       border-radius: 0.25rem;
@@ -90,7 +93,7 @@
     padding: 2.5rem 0
    }
    .teamtmpxpt1wbh8 h1 {
-    padding: 32px
+    font-size: 32px
    } 
    .teamtmpxpt1wbh8 .lead {
     font-size: 20px
