@@ -115,11 +115,18 @@
         background: #002347
     }
     .footerb6c9fcc0294384085 .h3 {
-        font-size: 1.125rem;
+        font-size: 20px;
         color: white;
+    }
+    .footerb6c9fcc0294384085 h5{
+        font-size: 20px
     }
     .footerb6c9fcc0294384085 .mini-footer p a {
         color: #F8C365;
+    }
+    .footerb6c9fcc0294384085 .fa {
+        font-weight: 900;
+        color: #fff;
     }
     /* #fanul(footerb6c9fcc0294384085) #css ends  */
 /*****fanul*****/
